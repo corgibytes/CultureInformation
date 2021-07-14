@@ -16,7 +16,7 @@ You can either open and run the Solution in your IDE of choice (e.g. Rider, Visu
 dotnet run --project Corgibytes.CultureInformation\Corgibytes.CultureInformation.csproj
 ```
 
-It will product output like:
+It will produce output like:
 
 ```bash
 C:\Repos\CultureInformation>dotnet run --project Corgibytes.CultureInformation\Corgibytes.CultureInformation.csproj
@@ -36,4 +36,4 @@ Current Date in yyyy/MM/dd format: 2021-06-30
 ```
 
 # Contributing
-Let us know what other culture information you would like to see by opening [issue](https://github.com/corgibytes/CultureInformation/issues) or [pull request](https://github.com/corgibytes/CultureInformation/pulls).  You can also use the above to ask questions, report a bug, or make suggestion/enhancement.
+Let us know what other culture information you would like to see by opening an [issue](https://github.com/corgibytes/CultureInformation/issues) or [pull request](https://github.com/corgibytes/CultureInformation/pulls).  You can also use the above to ask questions, report a bug, or make suggestion/enhancement.
